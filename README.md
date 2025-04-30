@@ -1,7 +1,32 @@
-# 💫 About Me:
-I'm currently working on a promotional code service (Sokolov company). <br>I used to work on a task setting service (Sokolov) and internal services (school21 company).<br><br>Also I'm studying to be a product owner at ITMO University (master's degree) and In my free time I do crossfit.<br><br>Leetcode: https://leetcode.com/u/curtrika/<br>Codewars: https://www.codewars.com/users/curtrika<br><br>
+# 💻 Backend Developer | Go Specialist 
 
-## 🌐 Socials:
+### 🔧 Current Focus
+- Developing high-performance promo code service in Go
+- Implementing efficient concurrency patterns (goroutines, channels)
+- Building robust microservices with clean Go architecture
+
+### 🏢 Professional Background
+- Created task management systems using Go's stdlib and popular frameworks
+- Optimized internal services with Go's native performance advantages
+
+### 🚀 Go Expertise
+```go
+package main
+
+import "fmt"
+
+func main() {
+    strengths := []string{
+        "Concurrent programming",
+        "Performance optimization",
+        "Microservices architecture",
+    }
+    fmt.Println("Go Strengths:", strengths) 
+}
+```
+ 
+
+## 🗣️ Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikita-chereshnev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chereshnev.n.s@gmail.com) 
 
 <div id="header" align="left">
